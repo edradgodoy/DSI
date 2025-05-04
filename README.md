@@ -71,7 +71,7 @@ admin-template/
 
 ---
 
-### ⚙️ Instrucciones para nuevas vitas
+### ⚙️ Instrucciones para nuevas vistas
 
 1. Dentro de la carpeta `views/` crea una carpeta con el nombre de la nueva vista que deseas.
 2. Dentro de la carpeta de la vista nueva crea un archivo llamado `widget-default.php`.
