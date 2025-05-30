@@ -5,7 +5,7 @@
         // metodos o funciones de los objetos C-R-U-D
         public function vista($url)
         {
-            $permitidos = ['dashboard', 'login', 'Clientes'];
+            $permitidos = ['dashboard', 'login', 'Clientes', 'Blanco'];
 
             // GitHub
 

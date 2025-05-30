@@ -9,7 +9,7 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-cogs"></i>Agenda</a>
                 <ul class="sub-menu children dropdown-menu">                            
                     <li><i class="fa fa-puzzle-piece"></i><a href="Clientes">Clientes</a></li>
-                    <li><i class="fa fa-id-badge"></i><a href="ui-badges.html">Badges</a></li>
+                    <li><i class="fa fa-id-badge"></i><a href="Blanco">Blanco</a></li>
                     <li><i class="fa fa-bars"></i><a href="ui-tabs.html">Tabs</a></li>
                     <li><i class="fa fa-id-card-o"></i><a href="ui-cards.html">Cards</a></li>
                     <li><i class="fa fa-exclamation-triangle"></i><a href="ui-alerts.html">Alerts</a></li>
